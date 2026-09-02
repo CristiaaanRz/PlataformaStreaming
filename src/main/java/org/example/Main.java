@@ -13,7 +13,7 @@ public class Main {
         miCatalogo.agregarPelicula(p2);
         miCatalogo.agregarPelicula(p3);
 
-        // 2. Mostrar la información del catálogo (ahora incluye si es clásica)
+        // 2. Mostrar la información del catálogo
         System.out.println("=== CONTENIDO DEL CATÁLOGO ===");
         System.out.println(miCatalogo.getPeliculas());
 
